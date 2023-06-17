@@ -2,6 +2,8 @@
 title: "첫 번째 포스팅 테스트"
 layout: single
 typora-root-url: ../
+categories: PythonBootcampUdemy
+tag: [python, blog, jekyll]
 ---
 
 
