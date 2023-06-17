@@ -12,3 +12,10 @@ typora-root-url: ../
 블로그를 처음 시작했어용...
 
 ![IMG_2978](/images/2023-05-31-first-posting/IMG_2978.JPG)
+
+
+
+```python
+print ("Hello World")
+```
+
