@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "default", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "a blog note o'Leah"
+title                    : "a bit of progress o'Leah"
 title_separator          : "|"
 subtitle                 : "Ephesians 6:18" # site tagline that appears below site title in masthead
 name                     : "leahnote01"
-description              : "a daily progression of leahnote01"
+description              : "a daily recording of Data Science of leahnote01"
 url                      : "https://leahnote01.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Leahnote01"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "who is the next?"
+  bio              : "A graduate student of Data Science @NY, USA"
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
