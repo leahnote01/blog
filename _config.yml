@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "default", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daily Study progress o'Leah"
+title                    : "Daily Data-Learning Progress o'Leah"
 title_separator          : "|"
 subtitle                 : "Ephesians 6:18" # site tagline that appears below site title in masthead
 name                     : "leahnote01"
