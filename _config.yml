@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Leahnote01"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A graduate student of Data Science @NY, USA"
+  bio              : "A graduate student of Data Science"
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
