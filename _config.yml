@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "default", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "a bit of progress o'Leah"
+title                    : "Daily Study progress o'Leah"
 title_separator          : "|"
 subtitle                 : "Ephesians 6:18" # site tagline that appears below site title in masthead
 name                     : "leahnote01"
@@ -110,9 +110,6 @@ author:
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:leahnote01@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://leahnote01.github.com/"
@@ -265,7 +262,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: False
       comments: true
       share: true
       related: true
