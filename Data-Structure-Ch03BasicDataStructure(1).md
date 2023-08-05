@@ -1,0 +1,210 @@
+---
+title: "Data Structure/ Ch03:BasicDataStructure(1)"
+layout: single
+typora-root-url: ../
+categories: DataStructure
+tag: [python, algorithm, datastructure, TIL]
+toc: true
+---
+
+### Basic Data Structure - Stacks
+
+* Linear Structures
+
+- ex) stacks, queues, deques, and lists
+- depending on how they are added or removed
+
+
+
+## 1. Stacks
+
+- an ordered collections of items where the addition of new items and removal of existing items always takes place at the same end.
+- Ordering principle : LIFO, last-in first-out. 
+
+
+
+```python
+# Listing 3.1 Stack Implementation in Python
+
+class Stack:
+    def __init__(self):
+        self.items = []
+        
+    def isEmpty(self):
+        return self.items == []
+    
+    def push(self, item):
+        self.items.append(item)
+        
+    def peek(self):
+        return self.items[len(self.items)-1]
+    
+    def size(self):
+        return len(self.items)
+
+```
+
+* stack() : creates a new stack that is empty. It nees no parameters
+* push(item) : adds a new item to the top of the stack
+* pop() : removes the top item from the stack. The stack is modified
+* peek() : returns the top item. The stack is NOT modified
+* isEmpty() : tests to see whether the stack is empty
+* size() : returns the number of items on the stack
+
+
+```python
+# example
+s = Stack()
+s.isEmpty()    # Output : True
+s.push(4)
+s.push('dog')
+s.peek()       # Output: 'dog'
+s.push(True)
+s.size()       # Output : 3
+s.isEmpty()    # Output : False
+s.push(8.4)
+```
+
+
+```python
+# Simple Balanced Parentheses
+
+def parChecker(symbolString):
+    s = Stack()
+    balanced = True
+    index = 0
+    while index < len(symbolString) and balanced:
+        symbol = symbolString[index]
+        if symbol == "(":
+            s.push(symbol)
+        else:
+            if s.isEmpty():
+                balanced = False
+            else:
+                s.pop()
+        index = index + 1
+        
+    if balanced and s.isEmpty():
+        return True
+    else:
+        return False
+```
+
+If the current symbol is (, then it is pushed on the stack (lines 9-10).
+Note also in line 15 that pop simply removes a symbol from the stackk.
+The returned value is not used since we know it must be an opening symbol seen earlier.
+
+`While index < len(symbolString and balanced ` starts a `while` loop that iterates through each character of the `symbolString` until the `index` reaches the end of the string or until the `balanced` variable becomes `False`. 
+if the current `symbol` is an opening parenthesis "(" and if so, it pushes (adds) it onto the stack `s`. 
+
+`if s.isEmpty(): balanced = False` checks if the stack s is empty. If it is, then there is no corresponding opening parenthesis for the current closing parenthesis, meaning the parentheses are unbalanced, and we set balanced to False.
+
+`else: s.pop()` : if the stack `s` is not empty, it means that there is a matching opening parentheses for the current closing parentheses. In this case, we can safely remove the top element from the stack, as the corresponding pair of parentheses are balanced.
+
+Afther the `while` loop, the code checks whether the `balanced` variable is `True` and if the stack `s` is empty. If both conditions are met, it means that all parentheses are balanced, and the function returns `True`. Otherwise, it returns `False.`
+
+
+```python
+class Stack:
+    def __init__(self):
+        self.items = []
+
+    def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
+        return self.items.pop()
+
+    def peek(self):
+        return self.items[-1]
+
+    def isEmpty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+
+    
+import string
+
+def infixtoPostfix(infixexpr):
+    prec = {}
+    prec["*"] = 3
+    prec["/"] = 3
+    prec["+"] = 2
+    prec["-"] = 2
+    prec["("] = 1
+    
+    opStack = Stack()
+    postfixList = []
+    
+    tokenList = infixexpr.split()
+    
+    for token in tokenList:
+        if token in string.ascii_uppercase:
+            postfixList.append(token)
+        elif token == '(':
+            opStack.push(token)
+        elif token == ')':
+            topToken = opStack.pop()
+            while topToken != '(':
+                postfixList.append(topToken)
+                topToken = opStack.pop()
+                
+        else:
+            while (not opStack.isEmpty()) and \
+                (prec[opStack.peek()] >= prec[token]):
+                    postfixList.append(opStack.pop())
+            opStack.push(token)
+            
+    while not opStack.isEmpty():
+        postfixList.append(opStack.pop())
+        
+    return " ".join(postfixList)
+```
+
+
+```python
+# testing code
+infixtoPostfix("( A + B ) * ( C + D )")
+```
+
+
+    'A B + C D + *'    # output
+
+
+
+I've used a dictionary called `prec` to hold the precedence values for the operators.
+The left parenthesis will receive the lowest value possible. This way any operator that is compared against it will have higher precedence and will be placed on top of it. Note that we have also imported the string module contains a number of predefined variables.
+
+
+
+
+```python
+def postfixEval(postfixExpr):
+    operandStack = Stack()
+    
+    tokenList = postfixExpr.split()
+    
+    for token in tokenList:
+        if token in "0123456789":
+            operandStack.push(int(token))
+        else:
+            operand2 = operandStack.pop()
+            operand1 = operandStack.pop()
+            result = doMath(token,operand1,operand2)
+            operandStack.push(result)
+                            
+    return operandStack.pop()
+                            
+def doMath(op, op1, op2):
+                            if op == "*":
+                                return op1 * op2
+                            elif op == "/":
+                                return op1 / op2
+                            elif op == "+":
+                                return op1 + op2
+                            else:
+                                return op1 - op2
+                            
+```
