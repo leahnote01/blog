@@ -13,7 +13,7 @@ Driven by an unquenchable thirst for data, and fueled by the belief that a good 
 <br><br>
 ## Contents
 - Data Science Cheatsheets
-- What I Learned for 40 days in Summer, 24
+- Today What I Learned for 40 days in Summer, 24
 - 🤔 More to be added
 
 <br><br>

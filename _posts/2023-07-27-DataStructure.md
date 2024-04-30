@@ -3,7 +3,7 @@ title: "Data Structure/ Ch01:BasicPython"
 layout: single
 typora-root-url: ../
 categories: DataStructure
-tag: [python, algorithm, datastructure, TIL]
+tag: [basicdatastructure, TIL_23]
 toc: true
 ---
 
