@@ -1,6 +1,7 @@
 ---
 title: "Data Structure/ Ch01:BasicPython"
 layout: single
+classes: wide
 typora-root-url: ../
 categories: TIL_23
 tag: [basicdatastructure, TIL_23]
