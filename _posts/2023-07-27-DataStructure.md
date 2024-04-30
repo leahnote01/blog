@@ -2,7 +2,7 @@
 title: "Data Structure/ Ch01:BasicPython"
 layout: single
 typora-root-url: ../
-categories: DataStructure
+categories: TIL_23
 tag: [basicdatastructure, TIL_23]
 toc: true
 ---

@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Leah's Data Science Journey 🚀"
 title_separator          : "|"
 subtitle                 : "Ephesians 6:18" # site tagline that appears below site title in masthead
-name                     : "Leah Shin (leahnote01)"
+name                     : "Leah Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to dispslay in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leahnote01"
+  name             : "Leah Shin"
   avatar           : "./assets/bio-photo.JPG"
-  bio              : "Graduate student @ Uni. Rochester | Data Scientist | ML & NLP"
+  bio              : "Pursuing a Master's in Data Science @Rochester, specializing in ML & NLP. Data Scientist by profession, decipherer of data by passion."
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
