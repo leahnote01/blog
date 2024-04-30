@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Leahnote01"
   avatar           : "./assets/bio-photo.JPG"
-  bio              : "A graduate student of Data Science"
+  bio              : "Graduate student @ Uni. Rochester | Data Scientist | ML & NLP"
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
@@ -115,7 +115,7 @@ author:
       url: "https://github.com/leahnote01"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/wonatoday"
+      url: "https://instagram.com/leahmaybethelight"
 
 # Site Footer
 footer:
