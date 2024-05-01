@@ -2,11 +2,11 @@
 title: "The Start of TIL 24"
 layout: single
 classes: wide
-typora-root-url: ../
 categories: Notice
 tag: [Notice, TIL_24]
 toc: true
 pinned: true
+typora-root-url: ../
 ---
 
 # Start of Recording TIL Summer '24
@@ -15,7 +15,7 @@ pinned: true
 
 <br>
 
-![test01](/images/2024-04-30-The Start of TIL 24/test01.jpeg)
+![test](/images/2024-04-30-The Start of TIL 24/test.jpeg)
 
 <br>
 
