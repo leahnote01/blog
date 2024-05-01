@@ -15,9 +15,11 @@ typora-root-url: ../
 
 <br>
 
-![test](/images/2024-04-30-The Start of TIL 24/test.jpeg)
+![Untitled](/images/2024-04-30-The Start of TIL 24/Untitled.jpeg)
 
 <br>
+
+
 
 May 1st. The first day of my recording will be starting very soon. I felt frustrated as I couldn't get any internships for the coming summer even though I had two final interview rounds. Ever since the morning that I finally got the rejection letter, I realized that I was not a strong candidate for the role, and I could not give them any appeal for that role.
 
