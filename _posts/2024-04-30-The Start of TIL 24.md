@@ -15,7 +15,7 @@ pinned: true
 
 <br>
 
-![13993D21-677E-4096-A7D0-7FE264007AA1_1_105_c](/images/2024-04-30-The Start of TIL 24/13993D21-677E-4096-A7D0-7FE264007AA1_1_105_c.jpeg)
+![6666607A-E54E-4968-8759-BD092EE1914D_1_105_c](/images/2024-04-30-The Start of TIL 24/6666607A-E54E-4968-8759-BD092EE1914D_1_105_c-4591118.jpeg)
 
 <br>
 
@@ -23,11 +23,11 @@ May 1st. The first day of my recording will be starting very soon. I felt frustr
 
 
 
-Thus, I threw myself into studying and preparing every step (hopefully) for my **Regular Job Opportunities** haha. (At first, I was frustrated and devastated for a while. It is what it is. What I should do is step forward.) During the two times of final interviews, I realized my weaknesses: ***I am really bad at explanations.*** Also, I am not very confident to introduce the methodologies that I used for my project, and even the terminorogies! The interviewees asked me technical questions and wanted to confirm if I could explain those concepts in simple languages to those with a background in this field. <u>That could be because the Data Scientist should collaborate with other departments and persuade them to set up business strategies based on the data in simple words.</u> Though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, still, that knowledge is unsatisfied with my standards or the market's. 
+Thus, I threw myself into studying and preparing every step (hopefully) for my **Regular Job Opportunities** haha. (At first, I was frustrated and devastated for a while. It is what it is. What I should do is step forward.) During the two times of final interviews, I realized my weaknesses: ***I am really bad at explanations.*** Also, I am not very confident introducing the methodologies I used for my project, and even the terminologies! The interviewees asked me technical questions and wanted to confirm if I could explain those concepts in simple languages to those with a background in this field. <u>That could be because the Data Scientist should collaborate with other departments and persuade them to set up business strategies based on the data in simple words.</u> Though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, still, that knowledge is unsatisfied with my standards or the market's. 
 
 
 
-So, that is why I am writing this post. I will need to prepare myself for ***that*** **storyteller**. I need time to arrange the stacked knowledge that I've learned from graduate school and to sharpen the sword so that I can use it in the real business world! 
+That is why I am writing this post. I will need to prepare myself for ***that*** **storyteller**. I need time to arrange the stacked knowledge I've learned from graduate school and sharpen the sword so I can use it in the real business world! 
 
 
 
