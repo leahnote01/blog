@@ -15,7 +15,7 @@ pinned: true
 
 <br>
 
-![6666607A-E54E-4968-8759-BD092EE1914D_1_105_c](/images/2024-04-30-The Start of TIL 24/6666607A-E54E-4968-8759-BD092EE1914D_1_105_c-4591118.jpeg)
+![test01](/images/2024-04-30-The Start of TIL 24/test01.jpeg)
 
 <br>
 
