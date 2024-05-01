@@ -13,17 +13,13 @@ pinned: true
 
 *This is my record of Summer '24 at Rochester. I will be at the library for 70 weekdays to study or prepare great projects for my career as a Data Scientist.*
 
+<br>
 
+![13993D21-677E-4096-A7D0-7FE264007AA1_1_105_c](/images/2024-04-30-The Start of TIL 24/13993D21-677E-4096-A7D0-7FE264007AA1_1_105_c.jpeg)
 
-![](/../leahnote01.github.io/images/2024-04-30-The Start of TIL 24/IMG_7697.jpeg)
-
-
-
-
+<br>
 
 May 1st. The first day of my recording will be starting very soon. I felt frustrated as I couldn't get any internships for the coming summer even though I had two final interview rounds. Ever since the morning that I finally got the rejection letter, I realized that I was not a strong candidate for the role, and I could not give them any appeal for that role.
-
-
 
 
 
@@ -31,19 +27,21 @@ Thus, I threw myself into studying and preparing every step (hopefully) for my *
 
 
 
-
-
 So, I will prepare myself for that **storyteller**. I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA. Still, those knowledges are unsatisfied with my standards or the market's. 
 
 
 
-## My Promise ##
+<br><br>
+
+# My Promise #
 
 ***I will come to the library every weekday at around 10:30, study till 4:30, and post TIL of today. I will mostly try to explain what I learned in simple language, record the codes, or summarize the concepts.***
 
-
-
 The journey has just been started! Best of luck on my path! :smile:
+
+
+
+
 
 
 
