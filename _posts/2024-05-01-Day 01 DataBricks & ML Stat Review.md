@@ -5,7 +5,6 @@ classes: wide
 categories: TIL_24
 tag: [statreview, TIL_24]
 toc: true
-typora-root-url: ../
 ---
 
 # Day 01 ML Stat Review

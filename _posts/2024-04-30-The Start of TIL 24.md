@@ -5,7 +5,6 @@ classes: wide
 categories: Notice
 tag: [Notice, TIL_24]
 toc: true
-typora-root-url: ../
 ---
 
 # Start of Recording TIL Summer '24
