@@ -3,6 +3,7 @@ title: "The Start of TIL 24"
 layout: single
 classes: wide
 categories: Notice
+typora-root-url: ../
 tag: [Notice, TIL_24]
 toc: true
 ---
@@ -13,9 +14,7 @@ toc: true
 
 <br>
 
-<img src="/images/2024-04-30-The Start of TIL 24/01Untitled-4664425-4664429.jpeg"/>
-
-<br>
+![01Untitled](/images/2024-04-30-TheStart ofTIL24/01Untitled.jpeg)<br>
 
 
 
