@@ -12,9 +12,15 @@ typora-root-url: ../
 
 *I did the Spark project partly and reviewed ML Stat Mathematics.*
 
-![image01](/images/2024-05-01-Day 01 DataBricks & ML Stat Review/image-4667389.jpeg)
 
-![image2](/images/2024-05-01-Day 01 DataBricks & ML Stat Review/image2.jpeg)
+
+<img src="/images/2024-05-01-Day 01 DataBricks & ML Stat Review/image-4667389.jpeg"/>
+
+
+
+<img src="/images/2024-05-01-Day 01 DataBricks & ML Stat Review/image2.jpeg"/>
+
+
 
 
 
