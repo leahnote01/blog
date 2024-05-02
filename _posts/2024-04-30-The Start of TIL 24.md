@@ -15,7 +15,7 @@ typora-root-url: ../
 
 <br>
 
-![Untitled](/images/2024-04-30-The Start of TIL 24/Untitled.jpeg)
+![01Untitled](./images/2024-04-30-The Start of TIL 24/01Untitled-4664425-4664429.jpeg)
 
 <br>
 
