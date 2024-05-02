@@ -5,7 +5,6 @@ classes: wide
 categories: Notice
 tag: [Notice, TIL_24]
 toc: true
-pinned: true
 typora-root-url: ../
 ---
 
