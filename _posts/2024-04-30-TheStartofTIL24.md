@@ -14,11 +14,11 @@ toc: true
 
 <br>
 
-<img src="/images/2024-04-30-TheStartofTIL24/02test.jpeg" alt="02test" />
+
 
 <br>
 
-
+![02test](/images/2024-04-30-TheStartofTIL24/02test-5801671.jpeg)
 
 
 
