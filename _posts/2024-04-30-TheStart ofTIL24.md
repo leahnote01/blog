@@ -8,9 +8,9 @@ tag: [Notice, TIL_24]
 toc: true
 ---
 
-# Start of Recording TIL Summer '24
+# The Start of Recording TIL Summer '24 - During Summer in Rochester as a Data Scientist Candidate
 
-*This is my record of Summer '24 at Rochester. I will be at the library for 70 weekdays to study or prepare great projects for my career as a Data Scientist.*
+*This is my record of Summer '24 at Rochester. I will be at the library for **40** weekdays to study or prepare great projects for my career as a Data Scientist.*
 
 <br>
 
