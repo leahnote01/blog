@@ -12,7 +12,7 @@ toc: true
 
 <br><br>
 
-*This is my record of Summer '24 at Rochester. I will be at the library for **40** weekdays that I plan to use this time to study and work on meaningful projects to advance my career as a Data Scientist.*
+> *This is my record of Summer '24 at Rochester. I will be at the library for **40** weekdays that I plan to use this time to study and work on meaningful projects to advance my career as a Data Scientist.*
 
 <br>
 
@@ -26,7 +26,11 @@ May 1st. The first day of my recording will be starting very soon. I felt frustr
 
 
 
-Thus, I threw myself into studying and preparing every step (hopefully) for my **Regular Job Opportunities** haha. (At first, I was frustrated and devastated for a while. It is what it is. What I should do is step forward.) During the two times of final interviews, I realized my weaknesses: ***I am really bad at explanations.*** Also, I am not very confident introducing the methodologies I used for my project, and even the terminologies! The interviewees asked me technical questions and wanted to confirm if I could explain those concepts in simple languages to those with a background in this field. <u>That could be because the Data Scientist should collaborate with other departments and persuade them to set up business strategies based on the data in simple words.</u> Though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, still, that knowledge is unsatisfied with my standards or the market's. 
+Thus, I threw myself into studying and preparing every step (hopefully) for my **Regular Job Opportunities** haha. (At first, I was frustrated and devastated for a while. It is what it is. What I should do is step forward.) During the two times of final interviews, I realized my weaknesses: ***I am really bad at explanations.*** 
+
+Also, I am not very confident introducing the methodologies I used for my project and even the terminologies! The interviewees asked me technical questions and wanted to confirm if I could explain those concepts in simple languages to those with a background in this field.
+
+ <u>That could be because the Data Scientist should collaborate with other departments and persuade them to set up business strategies based on the data in simple words.</u> Though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, still, that knowledge is unsatisfied with my standards or the market's. 
 
 
 
@@ -40,7 +44,7 @@ That is why I am writing this post. I will need to prepare myself for ***that***
 
 ***I will come to the library every weekday at around 10:30, study till 4:30, and post TIL of today. I will mostly try to explain what I learned in simple language, record the codes, or summarize the concepts.***
 
-The journey has just been started! Best of luck on my path! :smile:
+The journey has just started! Best of luck on my path! :smile:
 
 
 
