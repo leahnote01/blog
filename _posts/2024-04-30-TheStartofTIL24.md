@@ -14,9 +14,7 @@ toc: true
 
 <br>
 
-
-
-<br>
+<img src="/blog/images/2024-04-30-TheStartofTIL24/01Untitled.jpeg" alt="01Untitled">
 
 ![02test](/images/2024-04-30-TheStartofTIL24/02test-5801671.jpeg)
 
