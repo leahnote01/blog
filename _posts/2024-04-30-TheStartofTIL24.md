@@ -4,7 +4,7 @@ layout: single
 classes: wide
 categories: Notice
 typora-root-url: ../
-tag: [Notice, statReview, mlReview TIL_24]
+tag: [Notice, statReview, mlReview, TIL_24]
 toc: true
 ---
 
