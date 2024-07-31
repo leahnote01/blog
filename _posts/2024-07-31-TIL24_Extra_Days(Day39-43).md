@@ -1,5 +1,5 @@
 ---
-title: "Day39-43 Linear Algegra & Matrix for Programmers"
+title: "Day39-43 Linear Algebra & Matrix Review"
 layout: single
 classes: wide
 categories: TIL_24
@@ -8,7 +8,7 @@ tag: [mlReview, probability, statReview, TIL_24]
 toc: true 
 ---
 
-# 
+# Linear Algebra & Matrix for Programmers
 
 <img src="/blog/images/2024-07-31-TIL24_Extra_Days(Day39-43)/B457B861-8C6C-41B1-928E-BC958A20FD07_1_105_c.jpeg" alt="062124" width="50%">
 
