@@ -4,7 +4,7 @@ layout: single
 classes: wide
 categories: TIL_24
 typora-root-url: ../
-tag: [mlReview, probability, statReview, TIL_24]
+tag: [mlReview, linearAlgebra, matrix, statReview, TIL_24]
 toc: true 
 ---
 
@@ -20,7 +20,7 @@ toc: true
 
 <img src="/blog/images/2024-07-31-TIL24_Extra_Days(Day39-43)/F2B28F86-A8AA-4BDB-858D-E0D45C8110B4_1_105_c.jpeg" alt="071524" width="50%">
 
-![IMG_1413](/images/2024-07-31-TIL24_Extra_Days(Day39-43)/IMG_1413.JPG)
+<img src="/blog/images/2024-07-31-TIL24_Extra_Days(Day39-43)/IMG_1413.JPG" alt="consolidated">
 
 <br><br>
 
