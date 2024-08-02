@@ -1,5 +1,5 @@
 ---
-title: "Day39-43 Linear Algebra & Matrix Review"
+title: "(editing) Day39-43 Linear Algebra & Matrix Review"
 layout: single
 classes: wide
 categories: TIL_24
