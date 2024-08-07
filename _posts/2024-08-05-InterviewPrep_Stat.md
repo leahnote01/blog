@@ -53,11 +53,21 @@ What is **Bayes’ Theorem,** and how is it applied in data science?
 
 How can the **Central Limit Theore**m be used in data analysis?
 
-- The Central Limit Theorem (CLT) is a crucial principle in statistics. It states that when we have a large enough number of *<u>independent</u>*, <u>*identically distributed random variables*</u>, the sampling distribution of the sample mean (or sum) will be approximately <u>*normally distributed*</u>, regardless of the original distribution of the variables. This theorem is significant because it enables us to draw conclusions about population parameters using sample statistics, even when the population distribution is not normal.
+- The Central Limit Theorem (CLT) is a crucial principle in statistics. It states that when we have a large enough number of *<u>independent</u>*, <u>*identically distributed random variables*</u>, the sampling distribution of the sample mean (or sum) will be approximately <u>*normally distributed*</u>, regardless of the original distribution of the variables. This significant theorem enables us to conclude population parameters using sample statistics, even when the population distribution is not normal.
 - Application examples
   - Confidence Intervals:
-    - **Example**: Estimating the average height of adult women in a city. By taking a sufficiently large random sample, the sample mean can be used to construct a confidence interval for the population mean, assuming the sampling distribution of the mean is approximately normal.
+    - **Example**: Estimating the average height of adult women in a city. By taking a sufficiently large random sample, the sample mean can be used to construct a confidence interval for the population mean, assuming the sampling distribution is approximately normal.
   - Hypothesis Testing
     - **Example**: Testing whether a new drug reduces blood pressure. The mean blood pressure reduction in a sample of patients can be tested against a known value (e.g., no reduction) using the normal distribution properties provided by the CLT.
 
 <br><br>
+
+
+
+Briefly explain the **A/B testing** and its application. What are some common pitfalls encountered in A/B testing?
+
+- **A/B Testing** (split testing) compares <u>two versions</u> of a webpage, app, or other user experience <u>to determine which one performs better.</u> By conducting an A/B test, we can statistically infer whether changes made to a product lead <u>to improvements or declines</u> in user behavior.
+
+
+
+
