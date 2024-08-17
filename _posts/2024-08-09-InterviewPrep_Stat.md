@@ -47,13 +47,13 @@ How would you use **linear regression** to predict future trends?
 
 What is **Bayes’ Theorem,** and how is it applied in data science?
 
-- Bayes’ Theorem updates <u>the probabilities for hypotheses</u> <u>as more evidence or information becomes available.</u> It’s a vital component in a data scientist's toolkit for predictive modeling and risk assessment. By incorporating prior knowledge, data scientists can refine their predictions and analyses, making Bayes’ Theorem critical for decision-making processes in data science.<br><br>
+- Bayes’ Theorem updates <u>the probabilities for hypotheses</u> <u>as more evidence or information becomes available.</u> It’s a vital component in a data scientist's predictive modeling and risk assessment toolkit. By incorporating prior knowledge, data scientists can refine their predictions and analyses, making Bayes’ Theorem critical for decision-making processes in data science.<br><br>
 
 
 
 How can the **Central Limit Theore**m be used in data analysis?
 
-- The Central Limit Theorem (CLT) is a crucial principle in statistics. It states that when we have a large enough number of *<u>independent</u>*, <u>*identically distributed random variables*</u>, the sampling distribution of the sample mean (or sum) will be approximately <u>*normally distributed*</u>, regardless of the original distribution of the variables. This significant theorem enables us to conclude population parameters using sample statistics, even when the population distribution is not normal.
+- The Central Limit Theorem (CLT) is a crucial principle in statistics. It states that when we have a large enough number of *<u>independent</u>*, <u>*identically distributed random variables*</u>, the sampling distribution of the sample mean (or sum) will be approximately <u>*normally distributed*</u>, regardless of the original distribution of the variables. This significant theorem enables us to conclude population parameters using sample statistics, even when the population distribution is abnormal.
 - Application examples
   - Confidence Intervals:
     - **Example**: Estimating the average height of adult women in a city. By taking a sufficiently large random sample, the sample mean can be used to construct a confidence interval for the population mean, assuming the sampling distribution is approximately normal.
