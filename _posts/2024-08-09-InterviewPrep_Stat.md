@@ -16,16 +16,9 @@ toc: true
 
 Questions from: 
 
-<font size= 4pt>
-  <I>
-    <b>Medium "Google Data Scientist Interview Questions Step by Step" by John. H </b> <br> (https://medium.com/@bigtechinterviews/google-data-scientist-interview-questions-step-by-step-answers-2024-edition-094506cbde21) <Br>
-    
-<b>GitHub "Data Science Interview Questions & Answers" by Yossef Hosni</b>
-    <br> (https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)
-    </I>
-    </font>
+<I><b>[Medium "Google Data Scientist Interview Questions Step by Step" by John. H](https://medium.com/@bigtechinterviews/google-data-scientist-interview-questions-step-by-step-answers-2024-edition-094506cbde21)  </b></I>
 
-
+<I><b>[GitHub "Data Science Interview Questions & Answers" by Yossef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)</b></I>
 
 ---
 

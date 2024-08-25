@@ -12,7 +12,17 @@ toc: true
 
 ### SQL
 
-<I>(https://medium.com/@bigtechinterviews/google-data-scientist-interview-questions-step-by-step-answers-2024-edition-094506cbde21)</I>
+---
+
+Questions from: 
+
+<I><b>[Medium "Google Data Scientist Interview Questions Step by Step" by John. H](https://medium.com/@bigtechinterviews/google-data-scientist-interview-questions-step-by-step-answers-2024-edition-094506cbde21) </b></I>
+
+<I><b>[GitHub "Data Science Interview Questions & Answers" by Yossef Hosni](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)</b></I>
+
+---
+
+
 
 
 
@@ -28,6 +38,6 @@ What’s the **difference** between using a **UNION** and a UNION ALL in SQL?
 
 - The main difference between using a UNION and a UNION ALL in SQL is that <u>UNION automatically removes duplicate records from the results, whereas UNION ALL includes all duplicates.</u> <br>
 
-  By default, UNION performs a distinct operation on the results, which can be useful when you want to ensure that all returned rows are unique. On the other hand, UNION ALL does not perform any duplicate removal, making it faster in cases where you know the datasets do not overlap or when duplicate records are needed in the result set.
+  By default, UNION performs a distinct operation on the results, which can be helpful when you want to ensure that all returned rows are unique. On the other hand, UNION ALL does not perform any duplicate removal, making it faster in cases where you know the datasets do not overlap or when duplicate records are needed in the result set.
 
-![image-20240805131700584](/images/2024-08-05-InterviewPrep_SQL/image-20240805131700584.png)
+<img src="/blog/images/2024-08-05-InterviewPrep_SQL/image-20240805131700584.png">
