@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "default", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Leah's Data Science Journey 🚀"
 title_separator          : "|"
-subtitle                 : "Ephesians 6:18" # site tagline that appears below site title in masthead
+subtitle                 : "Pursuing a Master’s in Data Science @Uni. of Rochester" # site tagline that appears below site title in masthead
 name                     : "Leah Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Leah Shin"
   avatar           : "./assets/bio-photo.JPG"
-  bio              : "Pursuing a Master's in Data Science @Rochester, specializing in ML & NLP. Data Scientist by profession, decipherer of data by passion."
+  bio              : "Specializing in ML engineering & NLP. Data Scientist by profession, decipherer of data by passion."
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
