@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Leah's Data Science Journey 🚀"
 title_separator          : "|"
 subtitle                 : "Pursuing a Master’s in Data Science @Uni. of Rochester" # site tagline that appears below site title in masthead
-name                     : "Leah Shin"
+name                     : "Wonha Leah Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leah Shin"
+  name             : "Wonha Leah Shin"
   avatar           : "./assets/bio-photo.JPG"
   bio              : "Specializing in ML engineering & NLP. Data Scientist by profession, decipherer of data by passion."
   location         : "NY, USA"
