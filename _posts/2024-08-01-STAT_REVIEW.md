@@ -3,6 +3,7 @@ title: "Statistics & Probability Lecture Reivew "
 layout: single
 classes: wide
 categories: lectureReview
+read_time: True
 typora-root-url: ../
 tag: [dataScience,statistics,probability,lectureReview]
 toc: true 

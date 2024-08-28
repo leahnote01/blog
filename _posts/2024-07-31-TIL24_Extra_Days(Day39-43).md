@@ -3,6 +3,7 @@ title: "(editing) Day39-43 Linear Algebra & Matrix Review"
 layout: single
 classes: wide
 categories: TIL_24
+read_time: True
 typora-root-url: ../
 tag: [mlReview, linearAlgebra, matrix, statReview, TIL_24]
 toc: true 
