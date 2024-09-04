@@ -5,7 +5,7 @@ classes: wide
 categories: TIL_24
 read_time: True
 typora-root-url: ../
-tag: [mlReview, linearAlgebra, matrix, statReview, TIL_24]
+tag: [mlReview, mathematicsReview, matrix, linearAlgebra, TIL_24]
 toc: true 
 ---
 
