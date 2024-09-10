@@ -1,5 +1,5 @@
 ---
-title: "Day39-43 Linear Algebra & Matrix Review"
+title: "Day39-43 Linear Algebra & Matrix Review (Korean)"
 layout: single
 classes: wide
 categories: TIL_24
