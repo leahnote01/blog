@@ -46,6 +46,11 @@ layout: default
             </nav>
           </aside>
         {% endif %} -->
+        <!-- Notice link to be shown on every page -->
+        <div class="notice" style="background-color: #fffae6; padding: 10px; text-align: center;">
+          <p><strong><a href="https://leahnote01.github.io/blog/notice/TheStartofTIL24/" style="text-decoration: none; color: #333;">📚 The Start of Recording TIL Summer ‘24 : Why Did I Start This Project? 🚀 </a></strong></p>
+        </div>
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
