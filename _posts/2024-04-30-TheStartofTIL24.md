@@ -10,9 +10,9 @@ toc: true
 
 # The Start of Recording TIL Summer '24 - During Summer in Rochester as a Data Scientist Candidate
 
-<br><br>
-
-> *This is my record of Summer '24 at Rochester. I will be at the library for **40** weekdays, and I plan to use this time to study and work on meaningful projects to advance my career as a Data Scientist.*
+> In the summer of 2024, in Rochester, I plan to dedicate 40 weekdays to the enriching environment of the library. I am excited that my passion for studying and working on projects will prepare me for my journey as a Data Scientist and will drive every moment spent there, fueling my determination to achieve one of my career goals as well as my personal goal— <B>" to be a good Data Scientist who has a positive impact on the world."</B>
+>
+> <I><B><span style="background-color: #CC8899; color: white">Updated!</span></b></I>  <u>I have decided to extend this project until I fully grasp the concepts of Deep Learning and Machine Learning. Stay tuned for updates on my progress!</u>
 
 <br>
 
@@ -20,31 +20,27 @@ toc: true
 
 
 
+May 1st: Today marks the start of my recording. I've been feeling frustrated because despite making it to the final interview rounds, I couldn't secure any internships for the upcoming summer. Receiving the rejection letter this morning made me realize that I wasn't a strong candidate for the role and couldn't make a compelling case for myself.
 
+So I immersed myself in studying and preparing for my job opportunities. Initially, I was frustrated and devastated, but I <u><I>accepted the situation and decided to move forward</I></u>. After two final interviews, I realized that my weakness lies in explaining things: "I am really bad at story-telling."
 
-May 1st. The first day of my recording will be starting very soon. I felt frustrated as I couldn't get any internships for the coming summer even though I had two final interview rounds. Ever since the morning that I finally got the rejection letter, I realized that I was not a strong candidate for the role, and I could not give them any appeal for that role.
+I need to work on my confidence when explaining the methodologies and terminologies I used for my project. During interviews, I was asked technical questions and expected to demonstrate my ability to explain these concepts in simple terms to individuals with a background in this field. That could be because the data scientist should collaborate with other departments and persuade them to set up business strategies based on the data, using simple words. Even though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, I still need to update my knowledge to meet current standards and market demands.
 
+<I><B><span style="background-color: #CC8899; color: white">*Updated!*</span></b></I> <u>I have discovered that I am passionate and curious about algorithm mechanisms. I often find myself asking questions like "Why does this work?" and "How much should I change the hyperparameters?" I am interested in delving deeper into <b>the backgrounds of data science, ML Ops, and Deep Learning techniques, including their mathematical foundations.</b></u>
 
+That's why I'm starting this project. I want to prepare myself to become a storyteller and a great Data Scientist / Machine Learning Engineer who knows the foundations ***because it's so much fun to study them!*** I can't wait to apply my skills in the real business world!
 
-Thus, I threw myself into studying and preparing every step (hopefully) for my **Regular Job Opportunities** haha. (At first, I was frustrated and devastated for a while. It is what it is. What I should do is step forward.) During the two times of final interviews, I realized my weaknesses: ***I am really bad at explanations.*** 
-
-Also, I am not confident introducing the methodologies and terminologies I used for my project! The interviewees asked me technical questions and wanted to confirm if I could explain those concepts in simple languages to those with a background in this field.
-
- <u>That could be because the Data Scientist should collaborate with other departments and persuade them to set up business strategies based on the data in simple words.</u> Though I have a business background from South Korea (my undergraduate major was economics) and work experience in accounting in the USA, still, that knowledge is unsatisfied with my standards or the market's. 
-
-
-
-That is why I am writing this post. I will need to prepare myself for ***that*** **storyteller**. I need time to arrange the stacked knowledge I've learned from graduate school and sharpen the sword to use it in the real business world! 
-
-
-
-<br><br>
+<Br><br><br>
 
 # My Promise #
 
-***I will come to the library every weekday at around 10:30, study till 3:00, and post TIL of today. I will mostly try to explain what I learned in simple language, record the codes, or summarize the concepts.***
+### 📚 I will come to the library every weekday at around 10:30, study till 3:00, and post TIL of the day. 
 
-The journey has just started! Best of luck on my path! :smile:
+### 🚀 I will write a posting mostly to try to explain what I learned in simple language, record the codes, or summarize the concepts.
+
+The journey has just begun! Best of luck on my path! 
+
+<br><br><Br>
 
 
 
