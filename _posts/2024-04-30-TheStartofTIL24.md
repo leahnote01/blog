@@ -20,11 +20,11 @@ toc: true
 
 
 
-May 1st, 2024 -- I am about to start a new chapter in my life—the beginning of my recording journey. However, this critical moment comes with a lot of *frustration*. Even though I worked hard to find a summer internship, I faced many setbacks, making it to the final interview but then getting rejected. When the emails came in the morning, it hit me hard, showing me my weaknesses as a candidate. I couldn't show my strengths well enough to make a strong case for myself.
+May 1st, 2024 -- I was about to start a new chapter in my life—the beginning of my recording journey. However, this critical moment came with a lot of *frustration*. Even though I worked hard to find a summer internship, I faced many setbacks, making it to the final interview but then getting rejected. When the emails came in the morning, it hit me hard, showing me my weaknesses as a candidate. I couldn't show my strengths well enough to make a strong case for myself.
 
 To deal with these disappointments, I decided to **focus my energy on improving myself**. I dove into studying and practicing my skills to get ready for future job opportunities. At first, the pain of rejection left me feeling sad and defeated, but over time, I learned to accept the situation. Instead of staying in negativity, I promised myself to move forward with a positive attitude.
 
-Reflecting on my experience with two final interviews, I recognized a key area where I am unprepared—my **ability to explain concepts effectively.** Storytelling has never been my strong suit, <u>especially in this new field</u>. Perhaps my apprehension about stepping into the professional world has left me feeling unprepared.
+Reflecting on my experience with two final interviews, I recognized a key area where I am unprepared—my **ability to explain concepts effectively.** Storytelling has never been my strong suit, <u>especially in this new field</u>. My apprehension about stepping into the professional world has left me unprepared.
 
 To enhance my interviewing skills, I must work on my confidence when discussing the methodologies and terminologies related to my projects. During interviews, I faced several technical questions, and it became clear that I needed to understand these concepts and convey them in simple, relatable terms. This skill is vital for a data scientist, primarily because collaboration with other departments often hinges on the ability to persuade them to develop business strategies based on data insights.
 
