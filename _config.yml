@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "default", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leah's Data Science Journey 🚀"
+title                    : "Wonha's AI Engineering Journey🚀"
 title_separator          : "|"
 subtitle                 : "Pursuing a Master’s in Data Science @Uni. of Rochester" # site tagline that appears below site title in masthead
-name                     : "Wonha Leah Shin"
+name                     : "Wonha Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wonha Leah Shin"
+  name             : "Wonha Shin"
   avatar           : "./assets/bio-photo.JPG"
-  bio              : "Specializing in ML engineering & NLP. Data Scientist by profession, decipherer of data by passion."
+  bio              : "Specializing in AI engineering & NLP. Data Scientist by profession, decipherer of data by passion."
   location         : "NY, USA"
   email            : "leahnote01@gmail.com"
   links:
