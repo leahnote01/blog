@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "default", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wonha's AI Engineering Journey🚀"
+title                    : "Leah's Deep Dive into AI Engineering🚀"
 title_separator          : "|"
 subtitle                 : "Pursuing a Master’s in Data Science @Uni. of Rochester" # site tagline that appears below site title in masthead
-name                     : "Wonha Shin"
+name                     : "Wonha Leah Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
