@@ -1,8 +1,8 @@
 ---
-title: "(editing) Data Science Interview Prep - ML/AI"
+title: "(editing) Data Science Interview Prep - ML Basic"
 layout: single
 classes: wide
-categories: interviewPrep
+categories: interview_Prep
 read_time: True
 typora-root-url: ../
 tag: [interviewPrep,dataScience,statistics,interviewGoogle]
@@ -11,7 +11,7 @@ toc: true
 
 # Interview Questions & Answers
 
-### ML/AI
+### ML
 
 ---
 
@@ -37,11 +37,11 @@ What is a <u>decision tree</u>?
 
 How would you use a <u>decision tree to predict whether or not a customer will churn</u>?
 
-- To predict customer churn using a decision tree, you must train the model with data on previously churned customers. This involves analyzing customer behavior and attributes to identify patterns. Once trained, the model can predict the likelihood of future customers churning.
+- To predict customer churn using a decision tree, training the model must be done with data on previously churned customers. This involves analyzing customer behavior and attributes to identify patterns. Once trained, the model can predict the likelihood of future customers churning.
 
 What is gradient boosting?
 
-- Gradient boosting is a machine learning algorithm designed to improve accuracy by sequentially training a series of weak models. Each model corrects errors made by the previous ones, combining their predictions to form a more accurate final prediction.
+- Gradient boosting is a machine learning algorithm designed to improve accuracy by sequentially training weak models. Each model corrects errors made by the previous ones, combining their predictions to form a more accurate final prediction.
 
 How would you use gradient boosting to improve the accuracy of a machine-learning model?
 
