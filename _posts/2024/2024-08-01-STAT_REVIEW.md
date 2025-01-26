@@ -1,15 +1,15 @@
 ---
-title: "Statistics & Probability Lecture Reivew "
+title: "Statistics & Probability Lecture Review "
 layout: single
 classes: wide
-categories: lectureReview
+categories: TIL_24
 read_time: True
 typora-root-url: ../
 tag: [dataScience,statistics,probability,lectureReview]
 toc: true 
 ---
 
-# -(editing)
+# Introduction of Statistics (2023) Whole Lecture Review
 
 <Statistics & Probability Review>
 
@@ -32,7 +32,7 @@ Data
 
 Describing Categorical Distribution
 
-- Which chart or graph do we need to use for the explanation
+- Which chart or graph do we need to use for the explanation?
 - frequencies on variables-
 
 
@@ -45,7 +45,7 @@ Describing Categorical Distribution
 
 - Continuous
   - Histogram: for discrete and continuous as well
-    - Binwidth or the length of the intervals: Use Sturges’ formula
+    - Bin-width or the length of the intervals: Use Sturges’ formula
     - Workflow
 
 
@@ -223,7 +223,7 @@ Mutual Exclusivity and Exhaustiveness
   - $Pr(B \vert A) \neq  1- Pr(B \vert A^c)$
   - $Pr(B \vert A) = 1 - Pr(B^c \vert A)$
 - Multiplicative Rule
-  - $Pr(A \bigcap B) = Pr(A)\cdot Pr(B\vert A) = Pr(B) \cdot Pr(A\vertB)$
+  - $Pr(A \bigcap B) = Pr(A)\cdot Pr(B\vert A) = Pr(B) \cdot Pr(A \vert B)$
 
 
 
