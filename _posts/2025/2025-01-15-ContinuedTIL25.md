@@ -1,5 +1,5 @@
 ---
-title: "Day1 "
+title: "Continuing the TIL Project in 2025"
 layout: single
 classes: wide
 categories: Notice
@@ -9,6 +9,7 @@ tag: [dlReview, TIL_25]
 toc: true 
 ---
 
-# Continuous Records of TIL 25 -- My Experience as an Aspiring Data Scientist
+# The Ongoing Chronicles of TIL 25 -- A Motivating Expedition As a Data Scientist / AI/ML Engineer Candidate
 
 (Editing)
+
