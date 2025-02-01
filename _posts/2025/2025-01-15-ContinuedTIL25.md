@@ -5,7 +5,7 @@ classes: wide
 categories: Notice
 read_time: True
 typora-root-url: ../
-tag: [dlReview, TIL_25]
+tag: [dlReview, TIL_25, Notice]
 toc: true 
 ---
 
