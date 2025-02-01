@@ -1,8 +1,8 @@
 ---
 title: "Day1 "
-layout: single2
+layout: single
 classes: wide
-categories: TIL_25
+categories: Notice
 read_time: True
 typora-root-url: ../
 tag: [dlReview, TIL_25]
@@ -11,4 +11,4 @@ toc: true
 
 # Continuous Records of TIL 25 -- My Experience as an Aspiring Data Scientist
 
-![D6B69366-54F9-40C8-B0F7-E5B051CDA73C_1_105_c](/../images/2025-01-25-TIL25_Day1/D6B69366-54F9-40C8-B0F7-E5B051CDA73C_1_105_c-7874336.jpeg)
+(Editing)
