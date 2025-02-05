@@ -15,7 +15,7 @@ toc: true
 
 <I><Image: Busan, South Korea; Captured by myself></I><br><br>
 
-<I><b>I believe there are moments before I go through that feel like a horrible disaster, but afterward, I never regret any of the choices I've made. </b></I><br>
+> <I><b>I believe there are moments before I go through that feel like a horrible disaster, but afterward, I never regret any of the choices I've made. </b></I><br>
 
 Last year, when summer rolled in, I faced some tough challenges. I was hoping to land an internship but ended up with three interview rejections and hundreds of no responses from different companies. It seemed undoubtedly a trying time. Furthermore, going through the first year of the master's program in data science at the University of Rochester, I often felt a bit overwhelmed, especially since I was grappling with the fundamentals of the subjects. <I>Shamefully, I hardly coded, and I hardly grasped the mathematical logic of the algorithms I used. </I>
 
