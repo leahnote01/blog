@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "default", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Leah's Deep Dive into ML/AI Engineering🚀"
 title_separator          : "|"
-subtitle                 : "Pursuing a Master’s in Data Science @Uni. of Rochester" # site tagline that appears below site title in masthead
+subtitle                 : "🌍 AI/ML Data Scientist MSDS | 🎯 Passionate about NLP & Transforming Data into Global Innovations | 💎 Innovating for a Better, Smarter World" # site tagline that appears below site title in masthead
 name                     : "Wonha Leah Shin"
 description              : "Obsessed with data—because who isn't? :smile:"
 url                      : "https://leahnote01.github.io/blog"
