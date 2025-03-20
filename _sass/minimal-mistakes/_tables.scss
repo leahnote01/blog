@@ -2,6 +2,22 @@
    TABLES
    ========================================================================== */
 
+
+table {
+  margin: auto; /* Centers the table */
+  display: block;
+  margin-bottom: 3em;
+  width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  border-collapse: collapse;
+  overflow-x: auto;
+
+  & + table {
+    margin-top: 3em;
+  }
+}
+
 // table {
 //   margin: auto; /* Centers the table */
 //   display: table; /* Ensures proper table formatting */
@@ -16,21 +32,6 @@
 //     margin-top: 1em;
 //   }
 // }
-
-table {
-  margin: auto; /* Centers the table */
-  display: table; /* Ensures proper table formatting */
-  margin-bottom: 1em;
-  width: auto; /* Adjust width if needed */
-  font-family: $global-font-family;
-  font-size: $type-size-6;
-  border-collapse: collapse;
-  overflow-x: auto;
-
-  & + table {
-    margin-top: 1em;
-  }
-}
 
 
 
