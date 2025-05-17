@@ -11,9 +11,10 @@ toc: true
 
 # The Ongoing Chronicles of TIL 25 -- A Motivating Expedition As a Data Scientist / AI/ML Engineer Candidate
 
-![2A77078E-624B-494B-8C0B-588FCB167D87_1_201_a](../../images/2025-01-15-ContinuedTIL25/2A77078E-624B-494B-8C0B-588FCB167D87_1_201_a-8717441.jpeg)
-
-<I><Image: Busan, South Korea; Captured by myself></I><br><br>
+<center>
+  <img src="../../images/2025-01-15-ContinuedTIL25/2A77078E-624B-494B-8C0B-588FCB167D87_1_201_a-8717441.jpeg" width="85%"><br><br>
+  <I><Image: Busan, South Korea; Captured by myself></I><br><br>
+</center>
 
 > <I><b>I believe there are moments before I go through that feel like a horrible disaster, but afterward, I never regret any of the choices I've made. </b></I><br>
 
