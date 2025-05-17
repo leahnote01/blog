@@ -22,6 +22,12 @@ After several weeks of consistent posting, I’m wrapping up my TIL25 series, wh
 
 📚 With that chapter now concluded, I’m excited to continuing posting challenge with a brand-new learning journey centered around the book _Designing Machine Learning Systems_ by **Chip Huyen**.
 
+<center>
+  <img src="../../images/2025-04-22-TIL25_ANewChapter/image-20250517173118224.png" width="55%"><br><br>
+</center>
+
+
+
 This book is more than just a technical manual—it's a **field guide** for anyone serious about building ML systems & MLOps that actually work in the real world. While academic models are often clean and bounded, real production systems are anything but. This is where the book shines:  
 - It explores how to **design, deploy, and maintain ML systems** end-to-end.  
 - It touches on often-overlooked aspects like **data collection strategy, feedback loops, monitoring, CI/CD, and system iteration**.  
