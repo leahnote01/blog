@@ -72,6 +72,12 @@
   }
 }
 
+/* Add spacing below the last notice */
+.notice:last-of-type {
+  margin-bottom: 2em !important;
+}
+
+
 /* Default notice */
 
 .notice {
