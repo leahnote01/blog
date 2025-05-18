@@ -2,10 +2,10 @@
 title: "A New Chapter:: Continuing onward to MLOps"
 layout: single
 classes: wide
-categories: notice
+categories: Notice
 read_time: True
 typora-root-url: ../
-tag: [notice, MLOpsReview, TIL_25]
+tag: [Notice, MLOpsReview, TIL_25]
 toc: true 
 ---
 
