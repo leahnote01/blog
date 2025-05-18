@@ -1,11 +1,11 @@
 ---
-title: "A New Chapter:: Continuing to MLOps"
+title: "A New Chapter:: Continuing onward to MLOps"
 layout: single
 classes: wide
 categories: notice
 read_time: True
 typora-root-url: ../
-tag: [MLOpsReview, TIL_25]
+tag: [notice, MLOpsReview, TIL_25]
 toc: true 
 ---
 
