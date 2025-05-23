@@ -17,7 +17,7 @@ toc: true
 </center>
 
 
-After several weeks of consistent posting, I’m wrapping up my TIL25_StatReview series, which focused on **revisiting the foundations of statistics and probability.** This journey <u>sharpened my intuition and reconnected me to the mathematical backbone of modern machine learning</u>. From revisiting central limit theorems to power laws in error analysis, every post helped reinforce concepts I had once taken for granted.
+After several weeks (*actually, it was several months, though*) of consistent posting, I’m wrapping up my TIL25_StatReview series, which focused on **revisiting the foundations of statistics and probability.** This journey <u>sharpened my intuition and reconnected me to the mathematical backbone of modern machine learning</u>. From revisiting central limit theorems to power laws in error analysis, every post helped reinforce concepts I had once taken for granted.
 
 <br>
 
