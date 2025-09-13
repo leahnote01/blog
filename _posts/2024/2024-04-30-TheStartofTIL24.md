@@ -36,9 +36,9 @@ Even with a solid foundation from my business studies in South Korea, my undergr
 
 <br><br>
 
-<I><B><span style="background-color: #CC8899; color: white">*Updated!*</span></b></I> I have discovered that I am passionate and curious about algorithm mechanisms. I often ask questions like *"Why does this work?"* and *"How much should I change the hyperparameters?"* I am interested in exploring the underlying **foundations** of <u>data science, Statistics, ML Ops, and Deep Learning techniques, including their mathematical underpinnings.</u> So I will extend my study journey in ML & DL basic knowledge to MLOps—creating a streaming service with fine-tuning of high-end models.
+<I><B><span style="background-color: #CC8899; color: white">*Updated!*</span></b></I> I have found that I am passionate and curious about algorithm mechanisms. I often ask questions like *"Why does this work?"* and *"How much should I change the hyperparameters?"* I am interested in exploring the underlying **foundations** of <u>data science, Statistics, ML Ops, and Deep Learning techniques, including their mathematical underpinnings.</u> So I will extend my study journey in ML & DL basic knowledge to MLOps—creating a streaming service with fine-tuning of high-end models.
 
-That's why I'm starting this project. I want to prepare myself to become a storyteller and a skilled Data Scientist/Machine Learning Engineer who understands the foundations, as it's incredibly enjoyable to study them. I can't wait to apply my skills in the real business world!
+That's why I'm starting this project. I want to prepare myself to become a skilled storyteller and a data scientist/Machine Learning Engineer who understands the foundations, as it's incredibly enjoyable to study them. I can't wait to apply my skills in the real business world!
 
 <Br><br><br>
 
