@@ -13,8 +13,9 @@ toc: true
 
 <center>
   <img src="../../images/2025-04-22-TIL25_ANewChapter/0961166C-B001-4BFE-9BDD-0C3DCB2E8D8D_1_105_c.jpeg" width="85%"><br><br>
-  <I>Image: The scenery of New York City taken by me.</I><br><br>
+  <I>Image: The scenery of Jersey City taken by me.</I><br><br>
 </center>
+
 
 
 After several weeks (*actually, it was several months, though*) of consistent posting, I’m wrapping up my TIL25_StatReview series, which focused on **revisiting the foundations of statistics and probability.** This journey <u>sharpened my intuition and reconnected me to the mathematical backbone of modern machine learning</u>. From revisiting central limit theorems to power laws in error analysis, every post helped reinforce concepts I had once taken for granted.
