@@ -15,7 +15,7 @@ toc: true
 <br>
 
 <center>
-  <img src="/blog/images/2024-04-30-TheStartofTIL24/01Untitled.jpeg" alt="01Untitled"><br><br>
+  <img src="/blog/images/2024-04-30-TheStartofTIL24/01Untitled.jpeg" alt="01Untitled"><br><br><br>
 </center>
 
 
@@ -34,7 +34,7 @@ Even with a solid foundation from my business studies in South Korea, my undergr
 
 <I><B><span style="background-color: #CC8899; color: white">*Updated!*</span></b></I> 
 
-I’ve now **extended this challenge to 100 days** to deepen my understanding of Deep Learning and Machine Learning — and as of today, there are still **more than 60 days to go.** Stay tuned for the next chapter of this journey!
+I’ve now **extended this challenge to 100 days** to deepen my understanding of Deep Learning and Machine Learning — and as of today, there are still **more than 60 days to go.** 
 
 I have found that I am passionate and curious about the mechanisms of algorithms. I often ask questions like *"Why does this work?"* and *"How much should I change the hyperparameters?"* I am interested in exploring the underlying **foundations** of <u>data science, Statistics, ML Ops, and Deep Learning techniques, including their mathematical underpinnings.</u> I will extend my study journey from ML & DL basic knowledge to MLOps, creating a streaming service with fine-tuning of high-end models.
 
